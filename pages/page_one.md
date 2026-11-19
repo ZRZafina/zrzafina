@@ -1,16 +1,23 @@
-# Page one
+# What are the advantages of open-source software?
+There are multitudes of advantages of Open-Source Software;
+-	Cost
+-	Flexibility
+-	Community
+-	Transparency
 
-## This is the headline of your first page
+## Cost
+It usually free to use and/or download, which makes it an advantage because anyone can afford to use it. When it is free the licensing fees that has become a standard on paid software, are eliminated.
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+## Flexibility
+The users can customize its ability to suit the users or business needs. If there is something users are not satisfied with they themselves can change the codes or ask if anyone can help find the solution.
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+## Transparency
+ that anyone can see the coding, change it and share it with everyone. Anyone with a bit of understanding for coding, can be involved in fixing a bug. Closed software is different in that matter; you have to trust the person or company behind the software can find and fix every bug because users cannot see the codes and therefore cannot help in any way.
 
-- one item
-- another item
+## Community
+One of the biggest advantages are the large community behind Open-Source, there is a lot of volunteers and therefore there is a very good chance someone else is willing to help solve whatever problem there might be.
 
-### A smaller headline
+## References
 
-You can also add images from the assets folder:
-
-![The beach at Skagen](./assets/images/skagen.jpg)
+https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/ 
+https://reliasoftware.com/blog/advantages-and-disadvantages-of-open-source-software 
