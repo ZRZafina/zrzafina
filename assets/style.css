@@ -178,6 +178,10 @@ footer {
   color: var(--red);
 }
 
+.yellowText {
+  color: var(--yellow);
+}
+
 .lightText {
   font-weight: 200;
 }
