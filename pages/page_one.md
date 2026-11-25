@@ -20,4 +20,5 @@ One of the biggest advantages are the large community behind Open-Source, there 
 ## References
 
 https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/ 
+
 https://reliasoftware.com/blog/advantages-and-disadvantages-of-open-source-software 
